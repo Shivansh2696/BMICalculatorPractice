@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="gender">Gender :</string>
+    <string name="todo">TODO</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="choose_unit">Choose Unit :</string>
+    <string name="enter_height_here">Enter Height Here</string>
+    <string name="enter_weight_here">Enter Weight Here</string>
+    <string name="calculate">Calculate</string>
+    <string name="heightunit">heightUnit</string>
+    <string name="weightunit">weightUnit</string>
+    <string name="result">Result :</string>
+    <string name="textview">TextView :</string>
+    <string name="bmi_value">BMI Value :</string>
+    <string name="reset">Reset</string>
+    <string-array name="spinnerllist">
+        <item>Select Unit </item>
+        <item> MKS</item>
+        <item> FPS </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
